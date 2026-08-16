@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ubi-minimal:8.10-1785302592
+FROM registry.access.redhat.com/ubi8/ubi-minimal:8.10-1786322860
 
 COPY --chmod=755 entrypoint.sh /entrypoint.sh
 
